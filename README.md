@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hye there, I'm Farid Izzzuddin 👋</h1>
+<h1 align="center">Hye there, I'm Farid Izzuddin 👋</h1>
 
 ###
 
